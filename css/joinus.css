@@ -1,0 +1,36 @@
+#main{
+	width: 100%;	
+	background: #f2f2f2;
+}
+#main-zhuti{
+	width:640px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom:20px ;
+}
+#main #main-zhuti #main-tu{
+	width: 400px;
+	height: 250px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+#main #main-zhuti #main-tu img{
+	width: 400px;
+	height: 250px;
+}
+#main #main-zhuti #main-wenzi{
+	width: 500px;
+	margin:0px auto;
+}
+#main #main-zhuti #main-wenzi #main-wenzi-a{
+
+	margin:15px auto;
+}
+#main #main-zhuti #main-wenzi h1{
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+#main #main-zhuti #main-wenzi span{
+	font-size: 14px;
+	font-weight: bold;
+}
